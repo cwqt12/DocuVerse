@@ -1,0 +1,17 @@
+.top-container {
+    background-color: red;
+    text-align: center;
+    width: 100%; /* Make it stretch across the entire width */
+    padding: 10px;
+}
+.top-div {
+    display: inline-block; /* Ensuring it takes only the width of its content */
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+
+h1
+{   color :black;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif}
+.container{
+    width:400px;height:225px
+}
