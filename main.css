@@ -1,0 +1,26 @@
+body{
+    background-color: aliceblue;
+                }
+    h1 , h2
+    {color :black;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif}
+    
+    
+    
+    P{color: black;}
+    .top-container {
+                background-color: red;
+                text-align: center;
+                width: 100%; /* Make it stretch across the entire width */
+                padding: 10px;
+            }
+            .top-div {
+                display: inline-block; /* Ensuring it takes only the width of its content */
+                font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+            }
+    
+    
+    img{
+    display: block;
+    margin: auto
+    }
